@@ -1,6 +1,6 @@
 
 function Hoot() {
-    return  "http://localhost:4000/"
+    return  "https://schserver-kiossocamuegi.vercel.app/"
   }
   
   export default Hoot
